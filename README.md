@@ -1,3 +1,9 @@
+Note:
+-----
+
+This repository is a clone of the original Marlin firmware. The idea is to prepare a settings file specifically for Orca printers so that users can download the firmware and get printing right away (or at least have a working firmware that helps them getting started and only needs some fine-tuning).
+Ideally, at some point the Orca configuration file could be added to the original Marlin repository.
+
 WARNING: 
 --------
 THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
